@@ -25,5 +25,27 @@ O website da Mahindra Racing foi criado para fornecer informações sobre a equi
 Para rodar este projeto localmente, siga os passos abaixo:
 
 1. Clone o repositório:
-   ```bash
-   git clone https://github.com/seu-usuario/mahindra-racing.git
+```bash
+git clone https://github.com/fabriciobettarello/Mahindra.git
+```
+
+2. Navegue até o diretório do projeto:
+```bash
+cd mahindra_react
+```
+
+3. Instale as dependências:
+```bash
+npm install
+```
+
+4. Inicie o servidor de desenvolvimento:
+```bash
+npm run dev
+```
+
+## Uso
+Após iniciar o servidor de desenvolvimento, você pode acessar o website no seu navegador através do endereço localhost.
+
+## Licença
+Este projeto está licenciado sob a Licença MIT. Veja o arquivo LICENSE para mais detalhes.
