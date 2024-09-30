@@ -10,6 +10,10 @@
     color: #ffffff;
 }
 
+img {
+  -webkit-user-drag: none;
+}
+
 body, html {
     overflow-x: hidden;
     max-width: 100%;
