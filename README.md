@@ -1,1 +1,29 @@
-# Mahindra
+# Mahindra Racing Website
+
+Este é o repositório do website da Mahindra Racing, desenvolvido utilizando React e Vite.
+
+## Visão Geral
+
+O website da Mahindra Racing foi criado para fornecer informações sobre a equipe de corrida, seus carros, notícias e eventos. O projeto foi desenvolvido com foco em desempenho e experiência do usuário.
+
+## Tecnologias Utilizadas
+
+- **React**: Biblioteca JavaScript para construção de interfaces de usuário.
+- **Vite**: Ferramenta de build rápida e leve para projetos modernos de front-end.
+- **Bootstrap Icons**: Conjunto de ícones para melhorar a interface do usuário.
+
+## Funcionalidades
+
+- Página inicial com informações sobre a equipe.
+- Seção de carros com detalhes sobre os veículos.
+- Página de compra de ingressos para eventos.
+- Seção de notícias com as últimas atualizações.
+- Sistema de navegação responsivo.
+
+## Instalação
+
+Para rodar este projeto localmente, siga os passos abaixo:
+
+1. Clone o repositório:
+   ```bash
+   git clone https://github.com/seu-usuario/mahindra-racing.git
