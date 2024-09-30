@@ -6,6 +6,13 @@ Este é o repositório do website da Mahindra Racing, desenvolvido utilizando Re
 
 O website da Mahindra Racing foi criado para fornecer informações sobre a equipe de corrida, seus carros, notícias e eventos. O projeto foi desenvolvido com foco em desempenho e experiência do usuário.
 
+## Equipe
+- Fabricio Bettarello
+- Athos Rodrigues
+- Eric Yuji
+- Kaue Pires
+- Higor Batista
+
 ## Tecnologias Utilizadas
 
 - **React**: Biblioteca JavaScript para construção de interfaces de usuário.
